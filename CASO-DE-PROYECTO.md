@@ -24,7 +24,7 @@ El material ilustra un flujo móvil de extremo a extremo, la presentación estru
 
 ## Evidencia visual
 
-El documento **`AniVero_carrusel_LinkedIn.pdf`** incluye ocho láminas: presentación, cinco pasos del recorrido, pantalla de resultado e invitación a probar la demo. Todas hacen referencia a `anivero.es/m/demo`.
+El documento **`AniVero_carrusel.pdf`** incluye ocho láminas: presentación, cinco pasos del recorrido, pantalla de resultado e invitación a probar la demo. Todas hacen referencia a `anivero.es/m/demo`.
 
 ---
 
