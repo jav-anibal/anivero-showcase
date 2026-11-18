@@ -6,7 +6,11 @@ Una plataforma **SaaS modular multi-tenant** para negocios locales, empezando po
 
 ![AniVero — Flujo QR, pedido y pago seguro](./img/anivero.png)
 
-El primer módulo, **`coffee-connect-table`**, resuelve un flujo completo: el cliente escanea un QR, consulta la carta, hace un pedido, paga desde el móvil y el local recibe un pedido numerado listo para preparar.
+**[Ver caso de proyecto: AniVero](./CASO-DE-PROYECTO.md)**
+
+[Probar la demostración](https://www.anivero.es/m/demo)
+
+La demo permite consultar la carta, seleccionar productos y completar un pedido simulado. No procesa pagos ni envía pedidos reales.
 
 ---
 
