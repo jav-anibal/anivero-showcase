@@ -4,7 +4,7 @@
 
 AniVero presenta una experiencia de carta digital para restaurantes: desde consultar productos hasta revisar y confirmar un pedido simulado en el móvil. Este caso documenta el recorrido visible en la [demostración pública](https://www.anivero.es/m/demo).
 
-**[Probar la demo](https://www.anivero.es/m/demo)** · **[Ver el recorrido visual (PDF)](./AniVero_carrusel_LinkedIn.pdf)**
+**[Probar la demo](https://www.anivero.es/m/demo)** · **[Ver el recorrido visual (PDF)](./AniVero_carrusel.pdf)**
 
 ## El recorrido del usuario
 
